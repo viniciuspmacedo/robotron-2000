@@ -218,6 +218,11 @@ main {
         height: 80vh;
         margin: 5vh auto;
     }
+
+    .peca-titulo {
+        font-size: 2em;
+    }
+    
 }
 
 @media screen and (max-width: 1200px) {
